@@ -73,7 +73,7 @@ Set `property debugLog : true` in `SaveTabs.applescript` and run `./install.sh` 
 
 ## Deutsch
 
-Safari-Profile haben eine nervige Lücke: Schließt du ein Profil-Fenster mit dem roten ✕, sind beim nächsten Öffnen des Profils alle Tabs weg. Nur wenn du Safari ganz beendest, bleiben sie erhalten.
+Safari-Profile haben ein Problem: Schließt du ein Profil-Fenster mit dem roten ✕, sind beim nächsten Öffnen des Profils alle Tabs weg. Nur wenn du Safari ganz beendest, bleiben sie erhalten.
 
 SaveTabs ist eine kleine Hintergrund-App, die das behebt. Sie merkt sich die Tabs jedes Profils, und wenn du ein neues Fenster dieses Profils öffnest, sind die Tabs wieder da.
 
