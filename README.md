@@ -89,10 +89,11 @@ SaveTabs ist eine kleine Hintergrund-App, die das behebt. Sie merkt sich die Tab
 ### Installation
 
 ```bash
-git clone https://github.com/<your-user>/SaveTabs.git
+git clone https://github.com/KamillusWabner/SaveTabSafari.git
 cd SaveTabs
 ./install.sh
 ```
+
 
 Danach:
 
