@@ -29,7 +29,7 @@ SaveTabs is a tiny background app that fixes this. It remembers the tabs of each
 ### Install
 
 ```bash
-git clone https://github.com/<your-user>/SaveTabs.git
+git clone https://github.com/KamillusWabner/SaveTabSafari.git
 cd SaveTabs
 ./install.sh
 ```
